@@ -33,4 +33,26 @@ We have completed this project in 5 days.
 ## Screenshot
 
 
+<img src="https://user-images.githubusercontent.com/107308031/189727558-e66e2db0-c210-4f96-8e00-84f09d27d016.png" alt="home" />
+<br/>
+<img src= "https://user-images.githubusercontent.com/107308031/189728146-5a59581e-de00-4339-946c-10c0f964b328.png" alt="singup" />
+<br/>
+<img src= "https://user-images.githubusercontent.com/107308031/189727948-aabd1284-f610-4b8a-aad9-7d44696d2838.png" alt="login" />
+<br/>
+<img src= "https://user-images.githubusercontent.com/107308031/189727491-c94bfbf6-08ed-4079-8670-2330441dcabe.png" alt="apps" />
+<br/>
+<img src= "https://user-images.githubusercontent.com/107308031/189728032-09381c66-2e06-4a45-a99f-f9c015c2c582.png" alt="payment" />
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 
