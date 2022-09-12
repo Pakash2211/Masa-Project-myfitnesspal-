@@ -2,6 +2,8 @@
 This was our project for Unit-4 Construct week at Masai Shcool.
 Our target was to complete all main functionality of  website have, such as sing up to till to the byuing of a product.
 We have completed this project in 5 days.
+An online health & fitness platform for men and women.
+static website
 
 
 ## Credits
