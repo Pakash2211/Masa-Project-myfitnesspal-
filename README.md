@@ -21,11 +21,16 @@ We have completed this project in 5 days.
 
 - Login and Sign-in page
 - Carouse for product pictures
-- Detailed product preview page
-- Filters for custom price
-- Sort functions for Higher to Lower price,Lower to Higher price and Search bar for finding the product by it's name.
-- Manual slider for product card.
-- Add to cart opt for buying products.
+- Filtering apps on the apps page
+- Payment page
+
+## Area of responsibility
+
+- Lead Project
+- Created login page &
+- Landing page
+
+## Screenshort
 
 
 
