@@ -19,7 +19,7 @@ We have completed this project in 5 days.
 
 ## Features
 
-- Login and Sign-in page
+- Login and Sign-in page (validation form)
 - Carouse for product pictures
 - Filtering apps on the apps page
 - Payment page
