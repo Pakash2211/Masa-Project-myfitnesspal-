@@ -30,7 +30,7 @@ We have completed this project in 5 days.
 - Created login page &
 - Landing page
 
-## Screenshort
+## Screenshot
 
 
 
